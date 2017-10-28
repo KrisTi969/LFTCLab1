@@ -170,6 +170,8 @@ public class InterpretCris {
         io.finishWritingFIPRefacere2();
     }
 
+
+
     private boolean isIdentificator(String string) {
         if (Character.isDigit(string.charAt(0))) {
             return false;
