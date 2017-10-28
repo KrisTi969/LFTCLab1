@@ -1,0 +1,18 @@
+function ceva1
+n1 : integer ;
+begin
+if n1 >= 1 {
+suma1 : integer ;
+suma1 -> 0 ;
+var numar1 : integer ;
+for : var i1 -> 1 , n1 , 1 {
+read ( numar1 ) ;
+suma1 -> suma1 + numar1 ;
+}
+write ( suma1 ) ;
+}
+else
+{
+write ( 0 ) ;
+}
+end

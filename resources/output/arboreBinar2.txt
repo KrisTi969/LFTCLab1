@@ -1,0 +1,14 @@
+1 1 Tatal este: -1 -1 Fratele este: -1
+2 0 Tatal este: 1 1 Fratele este: -1
+1 1 Tatal este: -1 -1 Fratele este: -1
+1 1 Tatal este: -1 -1 Fratele este: -1
+2 0 Tatal este: 1 1 Fratele este: -1
+Am terminat refacerea arborelui pentru Arborele TS al Constantelor 
+1 Tatal este: n1 2 Fratele este: 3
+2 n1 Tatal este: ceva1 1 Fratele este: -1
+4 numar1 Tatal este: suma1 3 Fratele este: -1
+3 suma1 Tatal este: n1 2 Fratele este: 5
+3 suma1 Tatal este: n1 2 Fratele este: 5
+4 numar1 Tatal este: suma1 3 Fratele este: -1
+3 suma1 Tatal este: n1 2 Fratele este: 5
+Am terminat refacerea arborelui pentru Arborele TS al Identificatorilor
